@@ -1,0 +1,19 @@
+# Secrets — never commit
+.env
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+
+# Evaluation outputs
+evaluation/results.json
+evaluation/summary_report.txt
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
