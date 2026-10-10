@@ -1,9 +1,9 @@
 # Medical Agentic RAG v2
 ### Intelligent Multi-Agent Pipeline for Grounded Medical Q&A
 
-> Final Year Project — Sri Ramachandra Faculty of Engineering and Technology  
-> Rohith G (E0122017) · Sheik Mohammed Hashim (E0122033)  
-> Guide: Prof. Bhuvanya
+
+> authors-  Rohith G  · Sheik Mohammed Hashim 
+>
 
 ---
 
